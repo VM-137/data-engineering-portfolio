@@ -12,3 +12,7 @@ This portfolio is a compilation of code which I have created for data engineerin
     Simple demo of continous integration using Github Actions to perform tests using AWS, Azure or GCP <br>
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/demo-multi-cloud-continuous-integration-github-actions-)
 
+* #### Testing Techniques<br>
+    This is a repo for doing a simple example of testing python code<br>
+[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/testing-techniques)
+
