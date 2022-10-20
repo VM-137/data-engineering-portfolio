@@ -2,6 +2,12 @@
 
 This portfolio is a compilation of code which I have created for data engineering works, projects, examples.
 
+## DevOps:
+* #### CI/CD Setting Up Workflow Jobs With Github Actions<br>
+    This is a Python for DevOps repo, an example of CD/CI using good practices. I have used a EC2 instance on cloud9 AWS environment, git and github actions.<br>
+Libraries used: (click, pytest, pylint, black, pytest-cov)<br>
+[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/aws-cloud9-devops)
+
 ## Data Engineering 101: [![](https://badgen.net/badge/101/examples/black)]()
 
 * #### Flask Continuous Deployment with GCP<br>
@@ -15,4 +21,6 @@ This portfolio is a compilation of code which I have created for data engineerin
 * #### Testing Techniques<br>
     This is a repo for doing a simple example of testing python code<br>
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/testing-techniques)
+
+
 
