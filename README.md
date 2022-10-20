@@ -4,7 +4,7 @@ This portfolio is a compilation of code which I have created for data engineerin
 
 ## DevOps:
 * #### CI Setting Up Workflow Jobs With Github Actions<br>
-    This is a Python for DevOps repo, an example of CD/CI using good practices. I have used a EC2 instance on cloud9 AWS environment, git and github actions.<br>
+    This is a Python for DevOps repo, an example of CI using good practices. I have used a EC2 instance on cloud9 AWS environment, git and github actions.<br>
 Libraries used: (click, pytest, pylint, black, pytest-cov)<br>
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/aws-cloud9-devops)
 
