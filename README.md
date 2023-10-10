@@ -12,7 +12,8 @@ This portfolio is a compilation of code which I have created for data engineerin
     * Scalability — As the size of our data increases, we need to make sure our system scales with it
     * Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS
     * Reporting — Build a dashboard to get answers to the question we asked earlier<br>
-[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/end_to_end_youtube_data_analysis)
+      
+    [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/end_to_end_youtube_data_analysis)
 
 * #### AWS Serverless AI Data Engineering Pipeline<br>
     This is an example of a Serverless AI Data Engineering Pipeline.<br>
