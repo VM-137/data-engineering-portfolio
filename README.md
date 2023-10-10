@@ -3,6 +3,17 @@
 This portfolio is a compilation of code which I have created for data engineering works, projects, examples.
 
 ## AWS:
+* #### AWS end-to-end Youtube Analysis Project<br>
+    AWS Services used: (Amazon S3, AWS IAM, QuickSight, AWS Glue, AWS Lambda, AWS Athena)<br>
+    Project Goals:
+    * Data Ingestion — Build a mechanism to ingest data from different sources
+    * ETL System — We are getting data in raw format, transforming this data into the proper format
+    * Data lake — We will be getting data from multiple sources so we need centralized repo to store them
+    * Scalability — As the size of our data increases, we need to make sure our system scales with it
+    * Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS
+    * Reporting — Build a dashboard to get answers to the question we asked earlier<br>
+[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/end_to_end_youtube_data_analysis)
+
 * #### AWS Serverless AI Data Engineering Pipeline<br>
     This is an example of a Serverless AI Data Engineering Pipeline.<br>
     AWS Services used: (DynamoDB, Lambda, SQS, CloudWatch, Comprehend, S3)<br>
