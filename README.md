@@ -28,7 +28,10 @@ Libraries used: (click, pytest, pylint, black, pytest-cov)<br>
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/aws-cloud9-devops)
 
 ## Data Engineering 101: [![](https://badgen.net/badge/101/examples/black)]()
-
+* #### Airflow Simple ETL pipeline<br>
+    This repository contains a simple data engineering project that demonstrates how to build an ETL pipeline using Apache Airflow. The project processes road traffic data from various toll plazas, consolidating data from different       formats into a single, transformed CSV file.<br>
+[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/ETL-PIPELINE-AIRFLOW)
+    
 * #### Flask Continuous Deployment with GCP<br>
     Example of deploying a Flask web application with continuous deployment using PaaS and Google App Engine. <br>
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/cd-on-gcp-flask-web-)
