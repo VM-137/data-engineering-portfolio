@@ -28,6 +28,10 @@ Libraries used: (click, pytest, pylint, black, pytest-cov)<br>
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/aws-cloud9-devops)
 
 ## Data Engineering 101: [![](https://badgen.net/badge/101/examples/black)]()
+* #### Billing Data Warehouse
+  This project focuses on designing a **data warehouse** for a cloud service provider using their historical billing data. The goal is to organize this data into a **star schema** that can efficiently support queries related to         billing trends, customer insights, and more.<br>
+[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/billing-data-warehouse)
+
 * #### Airflow Simple ETL pipeline<br>
     This repository contains a simple data engineering project that demonstrates how to build an ETL pipeline using Apache Airflow. The project processes road traffic data from various toll plazas, consolidating data from different       formats into a single, transformed CSV file.<br>
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/ETL-PIPELINE-AIRFLOW)
