@@ -3,6 +3,10 @@
 This portfolio is a compilation of code which I have created for data engineering works, projects, examples.
 
 ## Data Engineering 101: [![](https://badgen.net/badge/101/examples/black)]()
+* #### Denormalizing Tables in Data Warehouse: Creating Materialized Views
+  This project demonstrates how to denormalize tables in a data warehouse by creating materialized views to improve query performance for customer analytics. We use a star schema model with fact and dimension tables and build materialized views for optimized data retrieval. This approach showcases core data engineering skills like schema design, denormalization, and the creation of materialized views for high-performance reporting. <br>
+[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/datawarehouse-denormalizing-tables-creating-materialized-views)
+
 
 * #### Data Quality Validation for Data Warehousing
   This project focuses on conducting comprehensive data quality checks within a data warehousing environment. It demonstrates the use of a Python-based framework integrated with PostgreSQL to validate data integrity, ensuring accuracy and consistency. <br>
