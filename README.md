@@ -28,6 +28,12 @@ Libraries used: (click, pytest, pylint, black, pytest-cov)<br>
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/aws-cloud9-devops)
 
 ## Data Engineering 101: [![](https://badgen.net/badge/101/examples/black)]()
+
+* #### Data Quality Validation for Data Warehousing
+  This project focuses on conducting comprehensive data quality checks within a data warehousing environment. It demonstrates the use of a Python-based framework integrated with PostgreSQL to validate data integrity, ensuring accuracy and consistency. <br>
+[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/billing-data-warehouse-quality-check)
+
+
 * #### Billing Data Warehouse
   This project focuses on designing a **data warehouse** for a cloud service provider using their historical billing data. The goal is to organize this data into a **star schema** that can efficiently support queries related to         billing trends, customer insights, and more.<br>
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/billing-data-warehouse)
