@@ -1,8 +1,13 @@
 # Data Engineering Portfolio
 
 This portfolio is a compilation of code which I have created for data engineering works, projects, examples.
-
 ## Data Engineering 101: [![](https://badgen.net/badge/101/examples/black)]()
+
+* #### Solid Waste Management Data Warehouse Project
+  This project focuses on designing and implementing a data warehouse for a solid waste management company operating in major cities across Brazil. The company's goal is to create a data warehouse that allows for comprehensive reporting on waste collection metrics, including total waste collected by various dimensions such as year, month, truck type, and city. <br>
+[![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/Solid-Waste-Management-DataWarehouse-Project)
+
+
 * #### Denormalizing Tables in Data Warehouse: Creating Materialized Views
   This project demonstrates how to denormalize tables in a data warehouse by creating materialized views to improve query performance for customer analytics. We use a star schema model with fact and dimension tables and build materialized views for optimized data retrieval. This approach showcases core data engineering skills like schema design, denormalization, and the creation of materialized views for high-performance reporting. <br>
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VM-137/datawarehouse-denormalizing-tables-creating-materialized-views)
